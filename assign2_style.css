@@ -1,0 +1,29 @@
+
+
+.column {
+    float: left;
+    padding: 5px;
+    margin-left: 130px;
+
+    border-color: darkgrey;
+}
+
+.class{
+    box-sizing: content-box;
+    align-content: space-evenly;
+    width: 100%;
+}
+.description{
+    display: block;
+    color: green;
+    margin-left: 90px;
+    margin-right: auto;
+}
+
+.description1{
+    display: block;
+    color: green;
+    margin-left: 60px;
+}
+
+
